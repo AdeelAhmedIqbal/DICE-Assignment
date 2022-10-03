@@ -19,3 +19,23 @@ Organizations and development teams can utilize both to complement the other. At
 Q2) Define CI, Continuous Delivery & Continuous Deployment 
 
 Answer 2) Continuous Integration is the practice where developers merge the changes to the code base to the main branch as often as possible. Continuous Delivery is an extension of CI since it enables automation to deploy all the code changes to an environment (dev, qa, stage, prod, etc) after the changes have been merged. Continuous Deployment takes the process one step further than continuous delivery. Here, all changes that pass the verification steps at each stage in the pipeline are released to production. Continuous delivery is a partly manual process where developers can deploy any changes to customers by simply clicking a button, while continuous deployment emphasizes automating the entire the process.
+
+Q3) What are the benefits of Cloud Computing
+
+Answer 3) 
+● On-demand computing resources
+● Don’t have to buy resources
+● Elastic resources - Scale up or down quickly and easily to meet demand
+● Pay for what you use only
+● Self service - All the IT resources you need with self-service access
+● High Speed – Quick Deployment
+● Automatic Software Updates and Integration
+● Efficiency and Cost Reduction
+● Data Security
+● Scalability
+● Collaboration
+● Unlimited Storage Capacity
+● Back-up and Restore Data
+● Disaster Recovery
+● Mobility
+● Data Loss Prevention
