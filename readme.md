@@ -39,3 +39,12 @@ Answer 3)
 ● Disaster Recovery
 ● Mobility
 ● Data Loss Prevention
+
+Q4) Difference b/w Git & Github
+
+Answer 4) 
+1) git is a software while github is a service
+2) git is installed locally on the system while github is hosted on web
+3) git is a command line tool while github is hosted on web
+4) git is a tool to manage different versions off edits, made to files in a git repository while github is a space to upload a copy of the Git repository
+
