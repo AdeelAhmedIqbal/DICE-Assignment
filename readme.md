@@ -52,3 +52,8 @@ Q5) Stages of Git
 
 Answer 5)
 The 4 Stages of GIT are: Working Directory, Staging Area, local repo and remote repo
+
+Q6) 3 methods of git reset?
+
+Answer 6)
+The options --soft, --mixed , and --hard can be passed to git reset
