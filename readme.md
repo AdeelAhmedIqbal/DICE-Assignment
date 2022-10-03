@@ -48,3 +48,7 @@ Answer 4)
 3) git is a command line tool while github is hosted on web
 4) git is a tool to manage different versions off edits, made to files in a git repository while github is a space to upload a copy of the Git repository
 
+Q5) Stages of Git
+
+Answer 5)
+The 4 Stages of GIT are: Working Directory, Staging Area, local repo and remote repo
